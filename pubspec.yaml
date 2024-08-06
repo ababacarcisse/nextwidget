@@ -1,0 +1,28 @@
+name: nextwidget
+description: A Flutter package providing a collection of customizable widget templates and a CLI tool for generating components, making it easy to create common UI elements.
+version: 1.0.1
+
+homepage: https://github.com/ababacarcisse/nextwidget
+repository: https://github.com/ababacarcisse/nextwidget
+issue_tracker: https://github.com/ababacarcisse/nextwidget/issues
+documentation: https://github.com/ababacarcisse/nextwidget/wiki
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  args: ^2.4.0
+  path: ^1.8.0
+  yaml: ^3.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  lints: ^4.0.0
+  test: ^1.25.2
+
+ 
+
+flutter:
